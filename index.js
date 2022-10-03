@@ -5,3 +5,5 @@ const name = {
 
 console.log(name);
 test 4
+
+add ChannelMergerNode
